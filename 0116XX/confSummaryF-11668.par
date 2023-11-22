@@ -4,7 +4,7 @@
 #
 # Created by pydl.pydlutils.yanny.yanny
 #
-# 2023-11-22 10:36:17 UTC
+# 2023-11-22 19:48:32 UTC
 #
 configuration_id 11668
 robostrategy_run eta-6
@@ -33,7 +33,7 @@ fvc_centroid_method nudge
 fvc_rms 0.02029
 fvc_90_perc 0.0112
 fvc_percent_reached 44.6
-fvc_image_path 
+fvc_image_path /data/fcam/60270/proc-fimg-fvc1n-0032.fits
 
 typedef enum {
     BOSS,
